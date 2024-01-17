@@ -1,0 +1,587 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  position: absolute;
+}
+header nav {
+  width: 100%;
+}
+header nav .menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header nav .menu .list {
+  width: 68%;
+  gap: 20px;
+}
+header nav .menu .list li a {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 26px;
+  transition: 0.7s;
+}
+header nav .menu .list li a:hover {
+  color: #207DFF;
+  transition: 0.7s;
+}
+header nav .iconHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+header nav .iconHeader a i {
+  color: black;
+}
+
+#formValidetion {
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  position: absolute;
+}
+header nav {
+  width: 100%;
+}
+header nav .menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header nav .menu .list {
+  width: 68%;
+  gap: 20px;
+}
+header nav .menu .list li a {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 26px;
+  transition: 0.7s;
+}
+header nav .menu .list li a:hover {
+  color: #207DFF;
+  transition: 0.7s;
+}
+header nav .iconHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+header nav .iconHeader a i {
+  color: black;
+}
+
+#product-sec {
+  display: flex;
+  min-height: 900px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+#product-sec #getProduct {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+#product-sec #getProduct button {
+  background-color: black;
+  color: white;
+  margin-bottom: 20px;
+}
+
+footer {
+  width: 100%;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #808080;
+}
+footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+footer p span {
+  color: #207DFF;
+  cursor: pointer;
+}
+footer p span:hover {
+  color: #13468d;
+  transition: 0.5s;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  position: absolute;
+}
+header nav {
+  width: 100%;
+}
+header nav .menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header nav .menu .list {
+  width: 68%;
+  gap: 20px;
+}
+header nav .menu .list li a {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 26px;
+  transition: 0.7s;
+}
+header nav .menu .list li a:hover {
+  color: #207DFF;
+  transition: 0.7s;
+}
+header nav .iconHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+header nav .iconHeader a i {
+  color: black;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main #modawell {
+  widows: 100%;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main #modawell .summer-Collection {
+  width: 100%;
+  min-height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+main #modawell .summer-Collection h1 {
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 77px;
+  font-family: sans-serif;
+}
+main #modawell .summer-Collection p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+}
+main #modawell .summer-Collection h5 {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 54px;
+  min-height: 100px;
+}
+main #modawell .summer-Collection .first-Section-Buttons {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+main #modawell .summer-Collection .first-Section-Buttons .now {
+  padding: 8px 17px 8px 17px;
+  background-color: white;
+  color: #207DFF;
+  border-color: #207DFF;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+}
+main #modawell .summer-Collection .first-Section-Buttons .now:hover {
+  background-color: #207DFF;
+  color: white;
+}
+main #modawell .summer-Collection .first-Section-Buttons button {
+  padding: 8px 17px 8px 17px;
+  background-color: #207DFF;
+  color: white;
+  border-color: #207DFF;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+}
+main #modawell .summer-Collection .first-Section-Buttons button:hover {
+  background-color: white;
+  color: #207DFF;
+}
+main #modawell .girl-Images {
+  width: 80%;
+}
+main #modawell .girl-Images img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1024px) {
+  main #modawell .summer-Collection h1 {
+    font-size: 60px;
+  }
+}
+@media only screen and (max-width: 994px) {
+  main #modawell .summer-Collection h1 {
+    font-size: 50px;
+  }
+}
+@media only screen and (max-width: 776px) {
+  main #modawell .summer-Collection h1 {
+    font-size: 40px;
+  }
+}
+@media only screen and (max-width: 566px) {
+  main #modawell .summer-Collection h1 {
+    font-size: 35px;
+  }
+}
+@media only screen and (max-width: 366px) {
+  main #modawell .summer-Collection h1 {
+    font-size: 30px;
+  }
+}
+#newSummerColloction {
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#newSummerColloction .secondGirlImages {
+  width: 100%;
+  margin-bottom: 20px;
+}
+#newSummerColloction .secondGirlImages img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+#newSummerColloction .jacket {
+  width: 100%;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#newSummerColloction .jacket p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  margin-bottom: 0px;
+}
+#newSummerColloction .jacket h1 {
+  font-size: 70px;
+  font-weight: 900;
+  line-height: 84px;
+  font-family: sans-serif;
+  min-height: 120px;
+}
+#newSummerColloction .jacket button {
+  padding: 10px 20px 10px 20px;
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 1024px) {
+  main #newSummerColloction .jacket h1 {
+    font-size: 60px;
+  }
+  main #newSummerColloction .jacket p {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 994px) {
+  main #newSummerColloction .jacket h1 {
+    font-size: 50px;
+  }
+  main #newSummerColloction .jacket p {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 776px) {
+  main #newSummerColloction .jacket h1 {
+    font-size: 40px;
+  }
+  main #newSummerColloction .jacket p {
+    font-size: 11px;
+  }
+}
+@media only screen and (max-width: 566px) {
+  main #newSummerColloction .jacket h1 {
+    font-size: 35px;
+  }
+  main #newSummerColloction .jacket p {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 366px) {
+  main #newSummerColloction .jacket h1 {
+    font-size: 30px;
+  }
+  main #newSummerColloction .jacket p {
+    font-size: 8px;
+  }
+}
+#collection {
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#collection .headerthird {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#collection .headerthird h1 {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38px;
+  color: black;
+  font-family: sans-serif;
+}
+#collection .collectionsNew {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid #EEEEEE;
+}
+#collection .collectionsNew img {
+  width: 65%;
+}
+#collection .collectionsNew .thirdText {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#collection .collectionsNew .thirdText h4 {
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 28px;
+  color: black;
+  font-family: sans-serif;
+}
+#collection .collectionsNew .thirdText p {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 27px;
+  margin-bottom: 0px;
+  color: #858585;
+  font-family: sans-serif;
+}
+#collection .collectionsNew .thirdText span {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 41px;
+}
+
+#data {
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#product .boxDiv {
+  margin-bottom: 20px;
+}
+
+#newDenimCoat {
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#newDenimCoat .images {
+  width: 100%;
+  margin-bottom: 20px;
+}
+#newDenimCoat .images img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+#newDenimCoat .jacket {
+  width: 100%;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#newDenimCoat .jacket p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  margin-bottom: 0px;
+}
+#newDenimCoat .jacket h1 {
+  font-size: 70px;
+  font-weight: 900;
+  line-height: 84px;
+  font-family: sans-serif;
+  min-height: 200px;
+  text-align: center;
+}
+#newDenimCoat .jacket button {
+  padding: 10px 20px 10px 20px;
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+footer {
+  width: 100%;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #808080;
+}
+footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+footer p span {
+  color: #207DFF;
+  cursor: pointer;
+}
+footer p span:hover {
+  color: #13468d;
+  transition: 0.5s;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  position: absolute;
+}
+header nav {
+  width: 100%;
+}
+header nav .menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header nav .menu .list {
+  width: 68%;
+  gap: 20px;
+}
+header nav .menu .list li a {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 26px;
+  transition: 0.7s;
+}
+header nav .menu .list li a:hover {
+  color: #207DFF;
+  transition: 0.7s;
+}
+header nav .iconHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+header nav .iconHeader a i {
+  color: black;
+}
+
+#wishlisted {
+  display: flex;
+  min-height: 900px;
+  align-items: center;
+  justify-content: center;
+}
+#wishlisted #wishList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#wishlisted #wishList button {
+  background-color: black;
+  color: white;
+}
